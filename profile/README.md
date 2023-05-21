@@ -5,6 +5,11 @@ Our philosophy is that, if people don't see litter around, they will feel less i
 [![About us](https://img.shields.io/badge/-Learn_More-fdd92a "About Us")](https://itisoverdue.org/about/)
 ## 🙋‍♀️ Welcome to the itisOVERDUE Github Organization!
 This is a place for our volunteer developers to collaborate on code projects.
+
+## 📚 Our Stack
+Our [website](https://itisoverdue.org/) is built with NextJS, JavaScript, HTML, and SCSS.  
+We use WordPress as a headless CMS.
+
 ## 🌈 How to Get Involved
 Contact us at hello@itisoverdue.com to learn more about volunteering with itisOVERDUE.
 
